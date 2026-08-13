@@ -1,0 +1,8 @@
+Process	BT	WT	TAT
+P1	3	0	3
+P2	5	3	8
+P3	6	8	14
+P4	8	14	22
+
+Average Waiting Time = 6.25
+Average Turnaround Time = 11.75
